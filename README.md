@@ -1,4 +1,4 @@
-# willberries - учебный проект в Glo Academy
+# pikadu - учебный проект в Glo Academy
 
 # В проекте использовались: 
 - HTML
